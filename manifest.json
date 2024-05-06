@@ -1,0 +1,28 @@
+{
+  "theme_color": "#8936FF",
+  "background_color": "#2EC6FE",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "https://github.com/felipekian/manifest_pwa_sesau_rr/icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "https://github.com/felipekian/manifest_pwa_sesau_rr/icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "pt-BR",
+  "name": "Secretaria de Estado da Saúde",
+  "short_name": "SESAU RR",
+  "start_url": "https://saude.rr.gov.br",
+  "scope": "https://saude.rr.gov.br/",
+  "description": "Acesse o Secretaria de Estado da Saúde",
+  "id": "https://saude.rr.gov.br"
+}
