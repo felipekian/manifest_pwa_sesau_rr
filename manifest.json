@@ -17,7 +17,7 @@
   ],
   "prefer_related_applications": false,
   "orientation": "any",
-  "display": "fullscreen",
+  "display": "standalone",
   "dir": "auto",
   "lang": "pt-BR",
   "name": "Secretaria de Estado da Saúde",
