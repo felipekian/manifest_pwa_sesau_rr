@@ -15,8 +15,9 @@
       "type": "image/png"
     }
   ],
+  "prefer_related_applications": false,
   "orientation": "any",
-  "display": "standalone",
+  "display": "fullscreen",
   "dir": "auto",
   "lang": "pt-BR",
   "name": "Secretaria de Estado da Saúde",
